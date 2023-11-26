@@ -1,0 +1,17 @@
+body {
+    background-image: url("record.png");
+    margin: 0;
+
+}
+
+.topBanner {
+    background-color: darkblue;
+    color: gold;
+    text-align: center;
+}
+
+.mainText {
+    background-color: lightgray;
+    padding: 1em;
+}
+
